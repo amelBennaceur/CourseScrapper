@@ -1,0 +1,61 @@
+index,title,partner,product_type,enrollment,coursera_subject,FL_category,duration,rating,level
+1,Key Technologies for Business,IBM,Specialization,680k,Business,business_and_management,1-3 Months,4.7,Beginner
+2,Financial Markets,Yale University,Course,1.1m,Business,business_and_management,1-3 Months,4.8,Beginner
+3,Successful Negotiation: Essential Strategies and Skills,University of Michigan,Course,1.1m,Business,business_and_management,1-3 Months,4.8,Mixed
+4,"Brand Management: Aligning Business, Brand and Behaviour",University of London,Course,230k,Business,business_and_management,1-3 Months,4.9,Beginner
+5,Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator,Yale University,Course,410k,Business,business_and_management,1-3 Months,4.9,Mixed
+6,Project Planning: Putting It All Together,Google,Course,63k,Business,business_and_management,1-3 Months,4.8,Beginner
+7,Private Equity and Venture Capital,Università Bocconi,Course,150k,Business,business_and_management,1-3 Months,4.8,Mixed
+8,Impact Measurement & Management for the SDGs,Duke University,Course,4.3k,Business,business_and_management,1-3 Months,4.9,Mixed
+9,Introduction to Social Media Marketing,Facebook,Course,160k,Business,business_and_management,1-3 Months,4.9,Beginner
+10,Transforming the Fashion Business,"Parsons School of Design, The New School",Specialization,6.2k,Business,business_and_management,1-3 Months,4.7,Intermediate
+11,Management of Fashion and Luxury Companies,Università Bocconi,Course,190k,Business,business_and_management,1-3 Months,4.7,Mixed
+12,The Strategy of Content Marketing,"University of California, Davis",Course,260k,Business,business_and_management,1-3 Months,4.5,Intermediate
+13,Marketing Analytics,University of Virginia,Course,280k,Business,business_and_management,1-3 Months,4.7,Beginner
+14,Principles of Sustainable Finance,Erasmus University Rotterdam,Course,24k,Business,business_and_management,1-3 Months,4.7,Intermediate
+15,Organizational Analysis,Stanford University,Course,100k,Business,business_and_management,1-3 Months,4.6,Beginner
+16,Excel Skills for Business: Essentials,Macquarie University,Course,640k,Business,business_and_management,1-3 Months,4.9,Beginner
+17,Supply Chain Principles,Georgia Institute of Technology,Course,60k,Business,business_and_management,1-3 Months,4.6,Mixed
+18,Forensic Accounting and Fraud Examination,West Virginia University,Course,83k,Business,business_and_management,1-3 Months,4.7,Mixed
+19,Project Execution: Running the Project,Google,Course,47k,Business,business_and_management,1-3 Months,4.8,Beginner
+20,Driving business towards the Sustainable Development Goals,Erasmus University Rotterdam,Course,20k,Business,business_and_management,1-3 Months,4.8,Beginner
+21,Project Planning,"University of California, Irvine",Course,0,Business,business_and_management,1-3 Months,4.8,Beginner
+22,Fundamentals of Finance,University of Pennsylvania,Course,38k,Business,business_and_management,1-3 Months,3.9,Beginner
+23,Project Launch,"University of California, Irvine",Course,0,Business,business_and_management,1-3 Months,4.7,Beginner
+24,Introduction to Blockchain Technologies,INSEAD,Course,47k,Business,business_and_management,1-3 Months,4.7,Beginner
+25,Introduction to Marketing,University of Pennsylvania,Course,300k,Business,business_and_management,1-3 Months,4.8,Mixed
+26,"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",Erasmus University Rotterdam,Course,76k,Business,business_and_management,1-3 Months,4.6,Advanced
+27,The Manager's Toolkit: A Practical Guide to Managing People at Work,University of London,Course,84k,Business,business_and_management,1-3 Months,4.6,Mixed
+28,Customer Analytics,University of Pennsylvania,Course,230k,Business,business_and_management,1-3 Months,4.6,Mixed
+29,AI For Everyone （すべての人のためのAIリテラシー講座）,DeepLearning.AI,Course,16k,Business,business_and_management,1-3 Months,4.8,Beginner
+30,Finance for Non-Finance Professionals,Rice University,Course,130k,Business,business_and_management,1-3 Months,4.8,Beginner
+31,Managing the Company of the Future,University of London,Course,96k,Business,business_and_management,1-3 Months,4.8,Mixed
+32,Digital Technologies and the Future of Manufacturing,University of Michigan,Specialization,0,Business,business_and_management,1-3 Months,4.9,Beginner
+33,An Introduction to Consumer Neuroscience & Neuromarketing,Copenhagen Business School,Course,120k,Business,business_and_management,1-3 Months,4.7,Beginner
+34,Réussir le Changement,ESSEC Business School,Course,41k,Business,business_and_management,1-3 Months,4.5,Mixed
+35,Marketing Digital,Universidade de São Paulo,Course,150k,Business,business_and_management,1-3 Months,4.8,Beginner
+36,Entrepreneurship 1: Developing the Opportunity,University of Pennsylvania,Course,110k,Business,business_and_management,1-3 Months,4.8,Mixed
+37,International Leadership and Organizational Behavior,Università Bocconi,Course,77k,Business,business_and_management,1-3 Months,4.8,Mixed
+38,Corporate Sustainability. Understanding and Seizing the Strategic Opportunity,Università Bocconi,Course,25k,Business,business_and_management,1-3 Months,4.6,Mixed
+39,Financing and Investing in Infrastructure,Università Bocconi,Course,37k,Business,business_and_management,1-3 Months,4.8,Mixed
+40,International Organizations Management,University of Geneva,Course,42k,Business,business_and_management,1-3 Months,4.8,Beginner
+41,Innovation Management,Erasmus University Rotterdam,Course,73k,Business,business_and_management,1-3 Months,4.7,Beginner
+42,Introduction to Finance: The Basics,University of Illinois at Urbana-Champaign,Course,12k,Business,business_and_management,1-3 Months,4.8,Mixed
+43,Food & Beverage Management,Università Bocconi,Course,98k,Business,business_and_management,1-3 Months,4.8,Mixed
+44,Salesforce Fundamentals,"University of California, Irvine",Specialization,8.5k,Business,business_and_management,1-3 Months,4.4,Beginner
+45,Devenir entrepreneur du changement,HEC Paris,Course,67k,Business,business_and_management,1-3 Months,4.7,Mixed
+46,Digital Marketing Strategy and Planning,Digital Marketing Institute,Specialization,4.8k,Business,business_and_management,1-3 Months,4.4,Beginner
+47,Omnichannel Retail Strategy,University of Pennsylvania,Specialization,2k,Business,business_and_management,1-3 Months,4.8,Beginner
+48,Auditing I: Conceptual Foundations of Auditing,University of Illinois at Urbana-Champaign,Course,28k,Business,business_and_management,1-3 Months,4.7,Mixed
+49,How to Manage a Remote Team,GitLab,Course,29k,Business,business_and_management,1-3 Months,4.8,Intermediate
+50,Sustainable Fashion,Copenhagen Business School,Course,41k,Business,business_and_management,1-3 Months,4.8,Beginner
+51,Agile и Scrum в работе над проектами и продуктами,National Research Tomsk State University,Course,30k,Business,business_and_management,1-3 Months,4.9,Beginner
+52,FinTech Law and Policy,Duke University,Course,23k,Business,business_and_management,1-3 Months,4.8,Beginner
+53,Sports Marketing,Northwestern University,Course,25k,Business,business_and_management,1-3 Months,4.7,Intermediate
+54,Camino a la Excelencia en Gestión de Proyectos,Pontificia Universidad Católica de Chile,Course,270k,Business,business_and_management,1-3 Months,4.7,Beginner
+55,Infrastructure and Application Modernization with Google Cloud,Google Cloud,Course,22k,Business,business_and_management,1-3 Months,4.7,Beginner
+56,Business Model Innovation,HEC Paris,Course,31k,Business,business_and_management,1-3 Months,4.7,Mixed
+57,Contabilidad para no contadores,Universidad Nacional Autónoma de México,Course,370k,Business,business_and_management,1-3 Months,4.8,Beginner
+58,Excel Skills for Business: Intermediate I,Macquarie University,Course,240k,Business,business_and_management,1-3 Months,4.9,Intermediate
+59,E-Marketing,"University of California, Irvine",Specialization,4.6k,Business,business_and_management,1-3 Months,4.7,Beginner
+60,Keeping up with Change: Issues for the Finance Professional,University of London,Course,15k,Business,business_and_management,1-3 Months,4.7,Mixed
